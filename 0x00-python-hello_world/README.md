@@ -1,6 +1,4 @@
-Here's a README.md file written in the style you requested:
 
-```
 # 0x00. Python - Hello, World
 
 ## Table of Contents
