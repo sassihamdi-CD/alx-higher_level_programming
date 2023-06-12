@@ -1,9 +1,18 @@
 # My Python Data Structures Project
 ![Data Structures](pythondatastructuresmin.png)
-Author: Sassi Hamdi
-Twitter: [@sassi_hamdi_](https://twitter.com/sassi_hamdi_)
+
+
+## Authors
+- [@Sassi Hamdi](https://twitter.com/sassi_hamdi_)
 
 This project is a collection of Python solutions for various tasks related to data structures like lists and tuples. It is part of the ALX Higher Level Programming curriculum.
+
+
+Add badges from somewhere like: [shields.io](https://shields.io/)
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.
 
 ## Learning Objectives
 
@@ -63,11 +72,21 @@ To successfully complete this project, it is recommended to read or watch the fo
 
 ## Customization
 
-Please replace the following placeholders with the appropriate information:
+the appropriate information:
 
-- [vim, emacs]
-- [Linux Ubuntu 22.04.2 LTS]
-- [Python 3.10.6]
-- [pycodestyle]
-- [2.10.0]
+- vim, emacs
+- Linux Ubuntu 22.04.2 LTS
+- Python 3.10.6
+- pycodestyle
+- 2.10.0
 
+## Used By
+
+This projects is used by the following companies:
+
+- Holberton School
+- ALX Africa
+
+## Feedback
+
+If you have any feedback, please reach out to us at sassihamdi7@gmail.com
